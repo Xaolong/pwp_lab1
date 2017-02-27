@@ -15,5 +15,6 @@ int main(){
 	double result = cos(M_PI/4.0);
 #endif
 	std::cout << result <<std::endl;
-return 0;
+	std::cin.get();
+	return 0;
 }
